@@ -1,0 +1,14 @@
+C:\C# Projects\cazino\cazino\bin\Debug\net8.0\cazino.exe
+C:\C# Projects\cazino\cazino\bin\Debug\net8.0\cazino.deps.json
+C:\C# Projects\cazino\cazino\bin\Debug\net8.0\cazino.runtimeconfig.json
+C:\C# Projects\cazino\cazino\bin\Debug\net8.0\cazino.dll
+C:\C# Projects\cazino\cazino\bin\Debug\net8.0\cazino.pdb
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.AssemblyInfoInputs.cache
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.AssemblyInfo.cs
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.csproj.CoreCompileInputs.cache
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.dll
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\refint\cazino.dll
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.pdb
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\cazino.genruntimeconfig.cache
+C:\C# Projects\cazino\cazino\obj\Debug\net8.0\ref\cazino.dll
